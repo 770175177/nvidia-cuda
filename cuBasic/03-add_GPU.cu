@@ -3,7 +3,7 @@
 
 #define BLOCK_X			6
 #define BLOCK_Y			8
-#define BLOCKS			3
+#define BLOCKS			30
 #define N			((BLOCKS) * (BLOCK_X) * (BLOCK_Y))
 
 #define MAX_NUM			1000
